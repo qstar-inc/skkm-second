@@ -14,22 +14,22 @@ const App: React.FC = () => {
         <h1 className="site-header">SK-KM Records</h1>
         <nav className="site-nav">
           <Button variant="primary">
-            <Link to="./credit/aci" className="text-white text-decoration-none">
+            <Link to="/skkm-second/credit/aci" className="text-white text-decoration-none">
               ACI Credit
             </Link>
           </Button>
           <Button variant="primary">
-            <Link to="./credit/tel" className="text-white text-decoration-none">
+            <Link to="/skkm-second/credit/tel" className="text-white text-decoration-none">
               TEL Credit
             </Link>
           </Button>
         </nav>
 
         <Routes>
-          <Route path="./credit/aci" element={<ACICredit />} />
-          <Route path="./credit/tel" element={<TELCredit />} />
+          <Route path="/skkm-second/credit/aci" element={<ACICredit />} />
+          <Route path="/skkm-second/credit/tel" element={<TELCredit />} />
           <Route
-            path="/transaction/:group/:shop_id"
+            path="/skkm-second/transaction/:group/:shop_id"
             element={<Transaction />}
           />
           {/* Add more routes for other pages */}

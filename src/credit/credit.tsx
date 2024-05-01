@@ -108,7 +108,7 @@ const Credit: React.FC<CreditProps> = ({ data, group }) => {
               <td>{extractArea(entry.name)}</td>
               <td>
                 <Link
-                  to={`/transaction/${group}/${entry.shop_id}`}
+                  to={`/skkm-second/transaction/${group}/${entry.shop_id}`}
                   className="shop-link"
                 >
                   {extractName(entry.name)}
