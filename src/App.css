@@ -23,3 +23,7 @@
 .page-header {
   text-align: center;
 }
+
+.fs-tiny {
+  font-size: smaller;
+}

@@ -5,8 +5,7 @@ import Credit from "../credit/credit";
 const TELCredit: React.FC = () => {
   return (
     <div>
-      <h2 className="page-header">TEL Credit</h2>
-      <Credit data={creditData} group="tel" />
+      <Credit data={creditData} group="tel" sr="Tarek" />
     </div>
   );
 };

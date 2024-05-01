@@ -13,11 +13,12 @@ interface Transaction {
 interface CreditProps {
   data: Transaction[];
   group: string;
+  sr: string;
 }
 
-const Credit: React.FC<CreditProps> = ({ data, group }) => {
+const Credit: React.FC<CreditProps> = ({ data, group, sr }) => {
   const filteredCustomerBalances = data
-    .filter((entry) => entry.sr == "Tarek" || entry.sr == "Azizul")
+    .filter((entry) => entry.sr == sr)
     .reduce((acc: Transaction[], entry) => {
       const existingEntryIndex = acc.findIndex(
         (e) =>
@@ -68,7 +69,7 @@ const Credit: React.FC<CreditProps> = ({ data, group }) => {
 
   function extractArea(key: string): string {
     const match = key.match(/\[(.*?)\]/);
-    return match ? match[1] : "";
+    return match ? "[" + match[1] + "]" : "";
   }
 
   // Function to extract name from the key
@@ -92,50 +93,56 @@ const Credit: React.FC<CreditProps> = ({ data, group }) => {
 
   function loadTable() {
     return (
-      <Table striped bordered hover className="credit-table">
-        <thead>
-          <tr className="text-center">
-            <th>Area</th>
-            <th>Shop</th>
-            <th>SR</th>
-            <th>Total Balance</th>
-            <th>Date</th>
-          </tr>
-        </thead>
-        <tbody>
-          {filteredCustomerBalances.map((entry, index) => (
-            <tr className="text-center" key={`${index}`}>
-              <td>{extractArea(entry.name)}</td>
-              <td>
-                <Link
-                  to={`/skkm-second/transaction/${group}/${entry.shop_id}`}
-                  className="shop-link"
-                >
-                  {extractName(entry.name)}
-                </Link>
-              </td>
-              <td>{entry.sr}</td>
-              <td className={`${balanceFormatting(entry.t_balance)} text-end`}>
-                {entry.t_balance.toLocaleString()}
-              </td>
-              <td className="text-center">{entry.date.toString()}</td>
+      <>
+        <h2 className="page-header">
+          {group.toUpperCase()} Credit <span className="h5">[SR: {sr}]</span>
+        </h2>
+
+        <Table striped bordered hover className="credit-table">
+          <thead>
+            <tr className="text-center">
+              <th>Shop</th>
+              <th>Balance</th>
+              <th>Date</th>
             </tr>
-          ))}
-        </tbody>
-        <tfoot>
-          <tr>
-            <td colSpan={3}>
-              <strong>
-                Grand Total ({filteredCustomerBalances.length} shops)
-              </strong>
-            </td>
-            <td className="text-end">
-              <strong>{grandTotalSum.toLocaleString()}</strong>
-            </td>
-            <td></td>
-          </tr>
-        </tfoot>
-      </Table>
+          </thead>
+          <tbody>
+            {filteredCustomerBalances.map((entry, index) => (
+              <tr className="text-center" key={`${index}`}>
+                <td>
+                  <Link
+                    to={`/skkm-second/transaction/${group}/${entry.shop_id}`}
+                    className="shop-link"
+                  >
+                    {extractName(entry.name)}
+                  </Link>
+                  <br />
+                  {extractArea(entry.name)}
+                </td>
+                <td
+                  className={`${balanceFormatting(entry.t_balance)} text-end`}
+                >
+                  {entry.t_balance.toLocaleString()}
+                </td>
+                <td className="text-center">{entry.date.toString()}</td>
+              </tr>
+            ))}
+          </tbody>
+          <tfoot>
+            <tr>
+              <td>
+                <strong>
+                  Grand Total ({filteredCustomerBalances.length} shops)
+                </strong>
+              </td>
+              <td className="text-end">
+                <strong>{grandTotalSum.toLocaleString()}</strong>
+              </td>
+              <td></td>
+            </tr>
+          </tfoot>
+        </Table>
+      </>
     );
   }
   return <div>{loadTable()}</div>;

@@ -5,8 +5,7 @@ import Credit from "../credit/credit";
 const ACICredit: React.FC = () => {
   return (
     <div>
-      <h2 className="page-header">ACI Credit</h2>
-      <Credit data={creditData} group="aci" />
+      <Credit data={creditData} group="aci" sr="Azizul" />
     </div>
   );
 };
