@@ -1,1 +1,0 @@
-import{j as r}from"./index-B9luObri.js";import t from"./credit-tel-DFidvgVv.js";import{C as o}from"./credit-B5braqxW.js";import"./Table-zJMhrziz.js";const m=()=>r.jsx("div",{children:r.jsx(o,{data:t,group:"tel",sr:"Tarek"})});export{m as default};
