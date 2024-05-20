@@ -3,7 +3,7 @@ import json
 import os
 
 groups = ['tel','aci']
-group = 'aci'
+group = 'tel'
 
 def create_json(filename):
     data = []
