@@ -4442,9 +4442,9 @@
 2024-04-30;693;Al-Amin [Madhubagh];;1000;;;;;Tarek;;-1000;40401
 2024-04-30;283;Bismillah [Rampura];;2000;;;;;Tarek;;-2000;17452
 2024-04-30;162;Habib [Rampura];;1500;;;;;Tarek;;-1500;23186
-2024-05-01;270;Barbara [Nandipara];1600;1600;;;;;Tarek;;;2922
-2024-05-01;445;1 to 99 [Kazibari];1545;1540;;5;;;Tarek;;;0
-2024-05-01;180;Al-Modina [Shantibagh];7800;;;;;;Tarek;;7800;7906
+2024-05-01;270;Barbara [Nandipara];1600;1600;;;;1;Tarek;;;2922
+2024-05-01;445;1 to 99 [Kazibari];1545;1540;;5;;2;Tarek;;;0
+2024-05-01;180;Al-Modina [Shantibagh];7800;;;;;3;Tarek;;7800;7906
 2024-05-01;27;Crockeries Bazar 2 [Taltola];;8000;;;;;Tarek;;-8000;9032
 2024-05-01;812;Chadpur [Taltola];;540;;;;;Tarek;;-540;96
 2024-05-01;29;Kabir [Taltola];;1530;;;;;Tarek;;-1530;0
@@ -4452,49 +4452,49 @@
 2024-05-01;94;SA [Shahjahanpur];;1000;;;;;Tarek;;-1000;16584
 2024-05-01;994;Bismillah [Shantibagh];;2000;;;;;Tarek;;-2000;420
 2024-05-01;12;Fatema [Goran];;1000;;;;;Tarek;;-1000;1135
-2024-05-02;27;Crockeries Bazar 2 [Taltola];11370;5000;;;;;Tarek;;6370;15402
-2024-05-02;12;Fatema [Goran];2560;2560;;;;;Tarek;;;1135
-2024-05-02;716;Lam Best [Banasree];1930;1930;;;;;Tarek;;;15380
-2024-05-02;1144;Brothers [Madhubagh];520;;;;;;Tarek;;520;520
-2024-05-02;705;Allah'r Daan [Madhubagh];2450;;;;;;Tarek;;2450;13530
-2024-05-02;576;Zilani [Moghbazar];1090;;;;;;Tarek;;1090;1090
-2024-05-02;554;Tanzila [Kadamtola];1320;1320;;;;;Tarek;;;8393
+2024-05-02;27;Crockeries Bazar 2 [Taltola];11370;5000;;;;4;Tarek;;6370;15402
+2024-05-02;12;Fatema [Goran];2560;2560;;;;5;Tarek;;;1135
+2024-05-02;716;Lam Best [Banasree];1930;1930;;;;6;Tarek;;;15380
+2024-05-02;1144;Brothers [Madhubagh];520;;;;;7;Tarek;;520;520
+2024-05-02;705;Allah'r Daan [Madhubagh];2450;;;;;8;Tarek;;2450;13530
+2024-05-02;576;Zilani [Moghbazar];1090;;;;;9;Tarek;;1090;1090
+2024-05-02;554;Tanzila [Kadamtola];1320;1320;;;;10;Tarek;;;8393
 2024-05-02;189;A to Z Life [Nandipara];;6720;;4;;;Tarek;;-6724;0
 2024-05-02;162;Habib [Rampura];;2000;;;;;Tarek;;-2000;21186
 2024-05-02;283;Bismillah [Rampura];;4000;;;;;Tarek;;-4000;13452
 2024-05-02;466;Razib 2 [Rampura];;2000;;;;;Tarek;;-2000;12227
 2024-05-02;136;Rifaiya [Wapda];;1000;;;;;Tarek;;-1000;2230
 2024-05-02;94;SA [Shahjahanpur];;1000;;;;;Tarek;;-1000;15584
-2024-05-04;27;Crockeries Bazar 2 [Taltola];16320;6000;1525;;;;Tarek;;8795;24197
-2024-05-04;94;SA [Shahjahanpur];8860;4500;;;;;Tarek;;4360;19944
-2024-05-04;84;Camellia [Amanullah];2670;1000;;;;;Tarek;;1670;5150
-2024-05-04;161;Sumon [Rampura];3500;;;;;;Tarek;;3500;47523
-2024-05-04;162;Habib [Rampura];14190;5000;347;;;;Tarek;;8843;30029
-2024-05-04;466;Razib 2 [Rampura];1250;1250;;;;;Tarek;;;12227
-2024-05-04;283;Bismillah [Rampura];5280;2000;;;;;Tarek;;3280;16732
-2024-05-04;203;Chinese [Banasree];2380;1000;;;;;Tarek;;1380;1380
-2024-05-04;697;Maruf [Banasree];1530;1530;;;;;Tarek;;;400
-2024-05-04;716;Lam Best [Banasree];2150;2100;;;;;Tarek;;50;15430
+2024-05-04;27;Crockeries Bazar 2 [Taltola];16320;6000;1525;;;11;Tarek;;8795;24197
+2024-05-04;94;SA [Shahjahanpur];8860;4500;;;;12;Tarek;;4360;19944
+2024-05-04;84;Camellia [Amanullah];2670;1000;;;;13;Tarek;;1670;5150
+2024-05-04;161;Sumon [Rampura];3500;;;;;14;Tarek;;3500;47523
+2024-05-04;162;Habib [Rampura];14190;5000;347;;;15;Tarek;;8843;30029
+2024-05-04;466;Razib 2 [Rampura];1250;1250;;;;16;Tarek;;;12227
+2024-05-04;283;Bismillah [Rampura];5280;2000;;;;17;Tarek;;3280;16732
+2024-05-04;203;Chinese [Banasree];2380;1000;;;;18;Tarek;;1380;1380
+2024-05-04;697;Maruf [Banasree];1530;1530;;;;19;Tarek;;;400
+2024-05-04;716;Lam Best [Banasree];2150;2100;;;;20;Tarek;;50;15430
 2024-05-04;139;A to Z [Banasree];;1000;;;;;Tarek;;-1000;2628
 2024-05-04;180;Al-Modina [Shantibagh];;7800;;;;;Tarek;;-7800;106
-2024-05-05;1142;Abdullah [Madhubagh];3490;3490;;;;;Tarek;;;2105
-2024-05-05;554;Tanzila [Kadamtola];4940;2000;;;;;Tarek;;2940;11333
-2024-05-05;187;Shongshar [Dakkhingaon];3000;;;;;;Tarek;;3000;3000
+2024-05-05;764;Abdullah Nursery [Buddha Mandir];3490;3490;;;;21;Tarek;;;35
+2024-05-05;554;Tanzila [Kadamtola];4940;2000;;;;22;Tarek;;2940;11333
+2024-05-05;187;Shongshar [Dakkhingaon];3000;;;;;23;Tarek;;3000;3000
 2024-05-05;161;Sumon [Rampura];;5000;;;;;Tarek;;-5000;42523
 2024-05-05;1144;Brothers [Madhubagh];;520;;;;;Tarek;;-520;0
 2024-05-05;1129;Best Choice 2 [Moghbazar];;1000;;;;;Tarek;;-1000;3318
 2024-05-05;723;Kaniz [Charulota];;2000;;;;;Tarek;;-2000;70
 2024-05-05;415;Best Selection [Noyatola];;1000;;;;;Tarek;;-1000;8818
 2024-05-05;705;Allah'r Daan [Madhubagh];;500;;;;;Tarek;;-500;13030
-2024-05-06;139;A to Z [Banasree];19000;;;;;;Tarek;;19000;21628
-2024-05-06;161;Sumon [Rampura];7800;;;;;;Tarek;;7800;50323
-2024-05-06;529;Best Choice [Moghbazar];3563;;;;;;Tarek;;3563;3563
-2024-05-06;1129;Best Choice 2 [Moghbazar];8988;;;;;;Tarek;;8988;12306
-2024-05-06;723;Kaniz [Charulota];550;;;;;;Tarek;;550;620
-2024-05-08;432;Mohammadia [Malibagh];2550;2550;;;;;Tarek;;;0
-2024-05-08;332;Gawsia [Charulota];2515;2510;;5;;;Tarek;;;0
-2024-05-08;1129;Best Choice 2 [Moghbazar];550;2000;;;;;Tarek;;-1450;10856
-2024-05-08;249;Laboni [Dakkhingaon];5100;5100;;;;;Tarek;;;1118
+2024-05-06;139;A to Z [Banasree];19000;;;;;24;Tarek;;19000;21628
+2024-05-06;161;Sumon [Rampura];7800;;;;;25;Tarek;;7800;50323
+2024-05-06;529;Best Choice [Moghbazar];3563;;;;;26;Tarek;;3563;3563
+2024-05-06;1129;Best Choice 2 [Moghbazar];8988;;;;;27;Tarek;;8988;12306
+2024-05-06;723;Kaniz [Charulota];550;;;;;28;Tarek;;550;620
+2024-05-08;432;Mohammadia [Malibagh];2550;2550;;;;29;Tarek;;;0
+2024-05-08;332;Gawsia [Charulota];2515;2510;;5;;30;Tarek;;;0
+2024-05-08;1129;Best Choice 2 [Moghbazar];550;2000;;;;31;Tarek;;-1450;10856
+2024-05-08;249;Laboni [Dakkhingaon];5100;5100;;;;32;Tarek;;;1118
 2024-05-08;187;Shongshar [Dakkhingaon];;3000;;;;;Tarek;;-3000;0
 2024-05-08;529;Best Choice [Moghbazar];;3560;;3;;;Tarek;;-3563;0
 2024-05-08;124;Friends [Moghbazar];;1500;;;;;Tarek;;-1500;2759
@@ -4505,26 +4505,26 @@
 2024-05-08;161;Sumon [Rampura];;5000;;;;;Tarek;;-5000;45323
 2024-05-08;27;Crockeries Bazar 2 [Taltola];;2000;;;;;Tarek;;-2000;22197
 2024-05-08;164;Mahin [Rampura];;1000;;;;;Tarek;;-1000;10575
-2024-05-09;94;SA [Shahjahanpur];1410;1500;;;;;Tarek;;-90;19854
-2024-05-09;16;Grihoshamogri [Goran];1812;;;;;;Tarek;;1812;2473
-2024-05-09;723;Kaniz [Charulota];3457;2000;;;;;Tarek;;1457;1527
-2024-05-09;1144;Brothers [Madhubagh];1640;1640;;;;;Tarek;;;0
-2024-05-09;1129;Best Choice 2 [Moghbazar];5000;5000;;;;;Tarek;;;10856
-2024-05-09;136;Rifaiya [Wapda];3240;1000;;;;;Tarek;;2240;3970
-2024-05-09;162;Habib [Rampura];2085;1650;436;-1;;;Tarek;;;27029
-2024-05-09;283;Bismillah [Rampura];7800;3000;;;;;Tarek;;4800;21532
-2024-05-09;221;_One Time Sales;1350;1350;;;;;Tarek;;;0
+2024-05-09;94;SA [Shahjahanpur];1410;1500;;;;33;Tarek;;-90;19854
+2024-05-09;16;Grihoshamogri [Goran];1812;;;;;34;Tarek;;1812;2473
+2024-05-09;723;Kaniz [Charulota];3457;2000;;;;35;Tarek;;1457;1527
+2024-05-09;1144;Brothers [Madhubagh];1640;1640;;;;36;Tarek;;;0
+2024-05-09;1129;Best Choice 2 [Moghbazar];5000;5000;;;;37;Tarek;;;10856
+2024-05-09;136;Rifaiya [Wapda];3240;1000;;;;38;Tarek;;2240;3970
+2024-05-09;162;Habib [Rampura];2085;1650;436;-1;;39;Tarek;;;27029
+2024-05-09;283;Bismillah [Rampura];7800;3000;;;;40;Tarek;;4800;21532
+2024-05-09;221;_One Time Sales;1350;1350;;;;41;Tarek;;;0
 2024-05-09;780;Maayer Doa [Amanullah];;1000;;;;;Tarek;;-1000;9474
 2024-05-09;115;Motlob [Tilpapara];;1000;;;;;Tarek;;-1000;3180
 2024-05-09;86;Laxmipur [Khilgaon];;2000;;;;;Tarek;;-2000;13671
 2024-05-09;576;Zilani [Moghbazar];;1090;;;;;Tarek;;-1090;0
 2024-05-09;693;Al-Amin [Madhubagh];;1000;;;;;Tarek;;-1000;39401
 2024-05-09;415;Best Selection [Noyatola];;1000;;;;;Tarek;;-1000;6318
-2024-05-11;124;Friends [Moghbazar];6460;;;;;;Tarek;;6460;9219
-2024-05-11;576;Zilani [Moghbazar];5240;;;;;;Tarek;;5240;5240
-2024-05-11;797;Tabassum [Charulota];2340;1400;;;;;Tarek;;940;2434
-2024-05-11;705;Allah'r Daan [Madhubagh];4300;;;;;;Tarek;;4300;17330
-2024-05-11;1142;Abdullah [Madhubagh];1114;;;;;;Tarek;;1114;3219
+2024-05-11;124;Friends [Moghbazar];6460;;;;;42;Tarek;;6460;9219
+2024-05-11;576;Zilani [Moghbazar];5240;;;;;43;Tarek;;5240;5240
+2024-05-11;797;Tabassum [Charulota];2340;1400;;;;44;Tarek;;940;2434
+2024-05-11;705;Allah'r Daan [Madhubagh];4300;;;;;45;Tarek;;4300;17330
+2024-05-11;1142;Abdullah [Madhubagh];1114;;164;;;46;Tarek;;950;3055
 2024-05-11;1148;Saarc [Goran];;4130;;;;;Tarek;;-4130;1070
 2024-05-11;116;Mariya [Nandipara];;1000;;;;;Tarek;;-1000;11162
 2024-05-11;270;Barbara [Nandipara];;1000;;;;;Tarek;;-1000;1922
@@ -4540,7 +4540,7 @@
 2024-05-12;124;Friends [Moghbazar];;1500;;;;;Tarek;;-1500;7719
 2024-05-12;723;Kaniz [Charulota];;1450;;;;;Tarek;;-1450;77
 2024-05-12;705;Allah'r Daan [Madhubagh];;1500;;;;;Tarek;;-1500;15830
-2024-05-12;1142;Abdullah [Madhubagh];;950;;;;;Tarek;;-950;2269
+2024-05-12;1142;Abdullah [Madhubagh];;950;;;;;Tarek;;-950;2105
 2024-05-12;693;Al-Amin [Madhubagh];;1000;;;;;Tarek;;-1000;38401
 2024-05-12;136;Rifaiya [Wapda];;500;;;;;Tarek;;-500;3470
 2024-05-12;162;Habib [Rampura];;2000;;;;;Tarek;;-2000;25029
@@ -4549,39 +4549,39 @@
 2024-05-12;84;Camellia [Amanullah];;500;;;;;Tarek;;-500;4650
 2024-05-12;86;Laxmipur [Khilgaon];;1000;;;;;Tarek;;-1000;12671
 2024-05-12;94;SA [Shahjahanpur];;1000;;;;;Tarek;;-1000;18854
-2024-05-13;27;Crockeries Bazar 2 [Taltola];3500;2000;;;;;Tarek;;1500;19697
-2024-05-13;28;Japan [Taltola];3900;4000;;;;;Tarek;;-100;25660
-2024-05-13;156;Highway [Rampura];2535;1000;;;;;Tarek;;1535;1535
-2024-05-13;126;Sumaiya [Anarkoli];1660;1660;;;;;Tarek;;;0
-2024-05-13;1129;Best Choice 2 [Moghbazar];2945;;;;;;Tarek;;2945;12801
-2024-05-13;529;Best Choice [Moghbazar];3140;3140;;;;;Tarek;;;0
-2024-05-13;261;Ashraf [Banasree];2710;;;;;;Tarek;;2710;11057
-2024-05-13;697;Maruf [Banasree];850;850;;;;;Tarek;;;400
+2024-05-13;27;Crockeries Bazar 2 [Taltola];3500;2000;;;;47;Tarek;;1500;19697
+2024-05-13;28;Japan [Taltola];3900;4000;;;;48;Tarek;;-100;25660
+2024-05-13;156;Highway [Rampura];2535;1000;;;;49;Tarek;;1535;1535
+2024-05-13;126;Sumaiya [Anarkoli];1660;1660;;;;50;Tarek;;;0
+2024-05-13;1129;Best Choice 2 [Moghbazar];2945;;;;;51;Tarek;;2945;12801
+2024-05-13;529;Best Choice [Moghbazar];3140;3140;;;;52;Tarek;;;0
+2024-05-13;261;Ashraf [Banasree];2710;;;;;53;Tarek;;2710;11057
+2024-05-13;697;Maruf [Banasree];850;850;;;;54;Tarek;;;400
 2024-05-13;203;Chinese [Banasree];;500;;;;;Tarek;;-500;880
 2024-05-13;139;A to Z [Banasree];;1000;;;;;Tarek;;-1000;18628
 2024-05-13;124;Friends [Moghbazar];;2000;;;;;Tarek;;-2000;5719
 2024-05-13;780;Maayer Doa [Amanullah];;2000;;;;;Tarek;;-2000;7474
 2024-05-13;94;SA [Shahjahanpur];;1000;;;;;Tarek;;-1000;17854
 2024-05-13;693;Al-Amin [Madhubagh];;1000;;;;;Tarek;;-1000;37401
-2024-05-14;283;Bismillah [Rampura];5000;5000;;;;;Tarek;;;20532
-2024-05-14;116;Mariya [Nandipara];3200;2000;;;;;Tarek;;1200;12362
-2024-05-14;189;A to Z Life [Nandipara];5320;;;;;;Tarek;;5320;5320
-2024-05-14;270;Barbara [Nandipara];3165;1000;;;;;Tarek;;2165;4087
-2024-05-14;221;_One Time Sales;2350;2000;;;;;Tarek;Selim;350;350
+2024-05-14;283;Bismillah [Rampura];5000;5000;;;;55;Tarek;;;20532
+2024-05-14;116;Mariya [Nandipara];3200;2000;;;;56;Tarek;;1200;12362
+2024-05-14;189;A to Z Life [Nandipara];5320;;;;;57;Tarek;;5320;5320
+2024-05-14;270;Barbara [Nandipara];3165;1000;;;;58;Tarek;;2165;4087
+2024-05-14;221;_One Time Sales;2350;2000;;;;59;Tarek;Selim;350;350
 2024-05-14;86;Laxmipur [Khilgaon];;1000;;;;;Tarek;;-1000;11671
 2024-05-14;261;Ashraf [Banasree];;3000;;;;;Tarek;;-3000;8057
 2024-05-14;716;Lam Best [Banasree];;1000;;;;;Tarek;;-1000;14430
 2024-05-14;16;Grihoshamogri [Goran];;500;;;;;Tarek;;-500;1973
-2024-05-15;1146;Naima [Taltola];2122;;;;;;Tarek;;2122;2172
-2024-05-15;29;Kabir [Taltola];2420;2420;;;;;Tarek;;;0
-2024-05-15;812;Chadpur [Taltola];2126;1000;;;;;Tarek;;1126;1222
-2024-05-15;274;Bhuiyan [Taltola];3704;3190;441;;;;Tarek;;73;73
-2024-05-15;12;Fatema [Goran];1952;;;;;;Tarek;;1952;3087
-2024-05-15;162;Habib [Rampura];2656;2590;67;-1;;;Tarek;;;25029
-2024-05-15;161;Sumon [Rampura];13064;5000;;;;;Tarek;;8064;48387
-2024-05-15;177;Kazi [Malibagh];2425;2370;56;-1;;;Tarek;;;0
-2024-05-15;579;Chadpur [Malibagh];2530;;;;;;Tarek;;2530;2530
-2024-05-15;554;Tanzila [Kadamtola];1210;;;;;;Tarek;;1210;12543
+2024-05-15;1146;Naima [Taltola];2122;;;;;60;Tarek;;2122;2172
+2024-05-15;29;Kabir [Taltola];2420;2420;;;;61;Tarek;;;0
+2024-05-15;812;Chadpur [Taltola];2126;1000;;;;62;Tarek;;1126;1222
+2024-05-15;274;Bhuiyan [Taltola];3704;3190;441;;;63;Tarek;;73;73
+2024-05-15;12;Fatema [Goran];1952;;;;;65;Tarek;;1952;3087
+2024-05-15;162;Habib [Rampura];2656;2590;67;-1;;66;Tarek;;;25029
+2024-05-15;161;Sumon [Rampura];13064;5000;;;;67;Tarek;;8064;48387
+2024-05-15;177;Kazi [Malibagh];2425;2370;55;;;68;Tarek;;;0
+2024-05-15;579;Chadpur [Malibagh];2530;;;;;69;Tarek;;2530;2530
+2024-05-15;554;Tanzila [Kadamtola];1210;;;;;70;Tarek;;1210;12543
 2024-05-15;1129;Best Choice 2 [Moghbazar];;2000;;;;;Tarek;;-2000;10801
 2024-05-15;797;Tabassum [Charulota];;1000;;;;;Tarek;;-1000;1434
 2024-05-15;415;Best Selection [Noyatola];;500;;;;;Tarek;;-500;5818
@@ -4591,11 +4591,11 @@
 2024-05-15;466;Razib 2 [Rampura];;1000;;;;;Tarek;;-1000;11227
 2024-05-15;203;Chinese [Banasree];;880;;;;;Tarek;;-880;0
 2024-05-15;27;Crockeries Bazar 2 [Taltola];;7300;;;;;Tarek;;-7300;12397
-2024-05-15;16;Grihoshamogri [Goran];;;940;;;;Tarek;;-940;1033
-2024-05-16;27;Crockeries Bazar 2 [Taltola];2950;;;;;;Tarek;;2950;15347
-2024-05-16;808;Sotota 2 [Sipahibagh];6750;6750;;;;;Tarek;;;0
-2024-05-16;705;Allah'r Daan [Madhubagh];1320;1320;;;;;Tarek;;;14330
-2024-05-16;408;Mamun [Charulota];2540;;;;;;Tarek;;2540;2540
+2024-05-15;16;Grihoshamogri [Goran];;;940;;;64;Tarek;;-940;1033
+2024-05-16;27;Crockeries Bazar 2 [Taltola];2950;;;;;71;Tarek;;2950;15347
+2024-05-16;808;Sotota 2 [Sipahibagh];6750;6750;;;;72;Tarek;;;0
+2024-05-16;705;Allah'r Daan [Madhubagh];1320;1320;;;;73;Tarek;;;14330
+2024-05-16;408;Mamun [Charulota];2540;;;;;74;Tarek;;2540;2540
 2024-05-16;576;Zilani [Moghbazar];;1000;;;;;Tarek;;-1000;2240
 2024-05-16;116;Mariya [Nandipara];;1000;;;;;Tarek;;-1000;11362
 2024-05-16;270;Barbara [Nandipara];;1000;;;;;Tarek;;-1000;3087
@@ -4603,12 +4603,134 @@
 2024-05-16;124;Friends [Moghbazar];;1500;;;;;Tarek;;-1500;4219
 2024-05-16;1129;Best Choice 2 [Moghbazar];;1000;;;;;Tarek;;-1000;9801
 2024-05-16;554;Tanzila [Kadamtola];;1000;;;;;Tarek;;-1000;11543
-2024-05-18;173;Comilla [Hazipara Boubazar];9207;3500;2407;;;;Tarek;;3300;10744
-2024-05-18;994;Bismillah [Shantibagh];4330;4330;;;;;Tarek;;;9200
-2024-05-18;994;Bismillah [Shantibagh];8780;;;;;;Tarek;;8780;9200
+2024-05-18;173;Comilla [Hazipara Boubazar];9207;3500;2407;;;75;Tarek;;3300;10744
+2024-05-18;994;Bismillah [Shantibagh];4330;4330;;;;76;Tarek;;;9200
+2024-05-18;994;Bismillah [Shantibagh];8780;;;;;77;Tarek;;8780;9200
 2024-05-18;1129;Best Choice 2 [Moghbazar];;1500;;;;;Tarek;;-1500;8301
 2024-05-18;162;Habib [Rampura];;2000;;;;;Tarek;;-2000;23029
 2024-05-18;261;Ashraf [Banasree];;2000;;;;;Tarek;;-2000;6057
 2024-05-18;579;Chadpur [Malibagh];;1500;;;;;Tarek;;-1500;1030
 2024-05-18;139;A to Z [Banasree];;1000;;;;;Tarek;;-1000;17628
 2024-05-18;1146;Naima [Taltola];;500;;;;;Tarek;;-500;1672
+2024-05-19;28;Japan [Taltola];3500;2000;;;;78;Tarek;;1500;27160
+2024-05-19;812;Chadpur [Taltola];576;570;;;;79;Tarek;;6;1228
+2024-05-19;579;Chadpur [Malibagh];1320;1150;1200;;;80;Tarek;;-1030;0
+2024-05-19;576;Zilani [Moghbazar];660;;;;;81;Tarek;;660;2900
+2024-05-19;408;Mamun [Charulota];1320;1320;;;;82;Tarek;;;2540
+2024-05-19;1129;Best Choice 2 [Moghbazar];2600;2600;;;;83;Tarek;;;8301
+2024-05-19;705;Allah'r Daan [Madhubagh];1320;1320;;;;84;Tarek;;;14330
+2024-05-19;261;Ashraf [Banasree];2100;;385;;;85;Tarek;;1715;7772
+2024-05-19;716;Lam Best [Banasree];1600;1200;374;;;86;Tarek;;26;14456
+2024-05-19;161;Sumon [Rampura];;2000;;;;;Tarek;;-2000;46387
+2024-05-19;86;Laxmipur [Khilgaon];;1000;;;;;Tarek;;-1000;10671
+2024-05-19;94;SA [Shahjahanpur];;1500;;;;;Tarek;;-1500;16354
+2024-05-19;156;Highway [Rampura];;1000;;;;;Tarek;;-1000;535
+2024-05-20;189;A to Z Life [Nandipara];;2320;;;;;Tarek;;-2320;0
+2024-05-20;270;Barbara [Nandipara];;1000;;;;;Tarek;;-1000;2087
+2024-05-20;116;Mariya [Nandipara];;2000;;;;;Tarek;;-2000;9362
+2024-05-20;28;Japan [Taltola];;1500;;;;;Tarek;;-1500;25660
+2024-05-20;162;Habib [Rampura];;2000;;;;;Tarek;;-2000;21029
+2024-05-20;283;Bismillah [Rampura];;2000;;;;;Tarek;;-2000;17532
+2024-05-20;136;Rifaiya [Wapda];;500;;;;;Tarek;;-500;1970
+2024-05-20;693;Al-Amin [Madhubagh];;1000;;;;;Tarek;;-1000;36401
+2024-05-20;994;Bismillah [Shantibagh];;2000;;;;;Tarek;;-2000;7200
+2024-05-20;780;Maayer Doa [Amanullah];;2000;;;;;Tarek;;-2000;5474
+2024-05-21;821;Dhaka [Goran];1814;500;;;;87;Tarek;;1314;1314
+2024-05-21;18;Saiful [Goran];3630;;;;;88;Tarek;;3630;3630
+2024-05-21;189;A to Z Life [Nandipara];26975;18000;;;;89;Tarek;;8975;8975
+2024-05-21;116;Mariya [Nandipara];5400;;;;;90;Tarek;;5400;14762
+2024-05-21;798;AS [Madartek];27350;;;;;91;Tarek;;27350;27350
+2024-05-21;84;Camellia [Amanullah];;500;;;;;Tarek;;-500;4150
+2024-05-21;94;SA [Shahjahanpur];;5500;;;;;Tarek;;-5500;10854
+2024-05-21;115;Motlob [Tilpapara];;1200;;;;;Tarek;;-1200;1980
+2024-05-21;139;A to Z [Banasree];;1000;;;;;Tarek;;-1000;16628
+2024-05-21;44;Dhaka [Taltola];;500;;;;;Tarek;;-500;300
+2024-05-22;283;Bismillah [Rampura];2270;2270;;;;92;Tarek;;;17532
+2024-05-22;162;Habib [Rampura];11110;3000;;;;93;Tarek;;8110;29139
+2024-05-22;126;Sumaiya [Anarkoli];3226;3220;;6;;94;Tarek;;;0
+2024-05-22;797;Tabassum [Charulota];2112;1000;210;;;95;Tarek;;902;2336
+2024-05-22;124;Friends [Moghbazar];;1500;;;;;Tarek;;-1500;2719
+2024-05-22;1129;Best Choice 2 [Moghbazar];;1000;;;;;Tarek;;-1000;7301
+2024-05-22;576;Zilani [Moghbazar];;1000;;;;;Tarek;;-1000;1900
+2024-05-22;161;Sumon [Rampura];;3000;;;;;Tarek;;-3000;43387
+2024-05-22;466;Razib 2 [Rampura];;1000;;;;;Tarek;;-1000;10227
+2024-05-22;18;Saiful [Goran];;3630;;;;;Tarek;;-3630;0
+2024-05-22;105;Taqwa [Sipahibagh];;1000;;;;;Tarek;;-1000;1896
+2024-05-22;173;Comilla [Hazipara Boubazar];;1000;;;;;Tarek;;-1000;9744
+2024-05-23;27;Crockeries Bazar 2 [Taltola];3500;5000;;;;96;Tarek;;-1500;13847
+2024-05-23;44;Dhaka [Taltola];740;;;;;97;Tarek;;740;1040
+2024-05-23;124;Friends [Moghbazar];1620;;;;;98;Tarek;;1620;4339
+2024-05-23;693;Al-Amin [Madhubagh];1880;1880;;;;99;Tarek;;;36401
+2024-05-23;705;Allah'r Daan [Madhubagh];;1500;;;;;Tarek;;-1500;12830
+2024-05-23;830;Sumon 2 [Rampura];;1000;;;;;Tarek;;-1000;8176
+2024-05-23;821;Dhaka [Goran];;1310;;4;;;Tarek;;-1314;0
+2024-05-23;261;Ashraf [Banasree];;3500;;;;;Tarek;;-3500;4272
+2024-05-23;798;AS [Madartek];;27350;;;;;Tarek;;-27350;0
+2024-05-25;27;Crockeries Bazar 2 [Taltola];7000;8000;;;;100;Tarek;;-1000;12847
+2024-05-25;26;Crockeries Bazar 1 [Taltola];3500;3500;;;;101;Tarek;;;498
+2024-05-25;1129;Best Choice 2 [Moghbazar];7010;2500;;;;102;Tarek;;4510;11811
+2024-05-25;705;Allah'r Daan [Madhubagh];4428;1000;;;;103;Tarek;;3428;16258
+2024-05-25;261;Ashraf [Banasree];5250;;;;;104;Tarek;;5250;9522
+2024-05-25;576;Zilani [Moghbazar];;500;;;;;Tarek;;-500;1400
+2024-05-25;124;Friends [Moghbazar];;1000;;;;;Tarek;;-1000;3339
+2024-05-25;1142;Abdullah [Madhubagh];;1000;;;;;Tarek;;-1000;1105
+2024-05-25;180;Al-Modina [Shantibagh];;100;;6;;;Tarek;;-106;0
+2024-05-25;44;Dhaka [Taltola];;500;;;;;Tarek;;-500;540
+2024-05-25;1146;Naima [Taltola];;1670;;2;;;Tarek;;-1672;0
+2024-05-25;162;Habib [Rampura];;3000;;;;;Tarek;;-3000;26139
+2024-05-25;136;Rifaiya [Wapda];;770;;;;;Tarek;;-770;1200
+2024-05-26;27;Crockeries Bazar 2 [Taltola];7950;3000;;;;105;Tarek;;4950;17797
+2024-05-26;86;Laxmipur [Khilgaon];;1000;;;;;Tarek;;-1000;9671
+2024-05-26;139;A to Z [Banasree];;1000;;;;;Tarek;;-1000;15628
+2024-05-26;161;Sumon [Rampura];;3000;;;;;Tarek;;-3000;40387
+2024-05-28;27;Crockeries Bazar 2 [Taltola];3645;6000;;;;106;Tarek;;-2355;15442
+2024-05-28;29;Kabir [Taltola];5630;2500;;;;107;Tarek;;3130;3130
+2024-05-28;161;Sumon [Rampura];12600;;;;;108;Tarek;;12600;52987
+2024-05-28;830;Sumon 2 [Rampura];2900;;;;;109;Tarek;;2900;11076
+2024-05-28;162;Habib [Rampura];4540;3000;;;;110;Tarek;;1540;27679
+2024-05-28;135;Confidence [Wapda];4150;;;;;111;Tarek;;4150;4150
+2024-05-28;156;Highway [Rampura];1336;500;;;;112;Tarek;;836;1371
+2024-05-28;1144;Brothers [Madhubagh];1627;;666;;;113;Tarek;;961;961
+2024-05-28;283;Bismillah [Rampura];;1000;;;;;Tarek;;-1000;16532
+2024-05-28;164;Mahin [Rampura];;1000;;;;;Tarek;;-1000;9575
+2024-05-28;554;Tanzila [Kadamtola];;1000;;;;;Tarek;;-1000;10543
+2024-05-28;716;Lam Best [Banasree];;1000;;;;;Tarek;;-1000;13456
+2024-05-28;270;Barbara [Nandipara];;1000;;;;;Tarek;;-1000;1087
+2024-05-28;189;A to Z Life [Nandipara];;5000;;;;;Tarek;;-5000;3975
+2024-05-28;116;Mariya [Nandipara];;2000;;;;;Tarek;;-2000;12762
+2024-05-29;27;Crockeries Bazar 2 [Taltola];7965;2000;;;;114;Tarek;;5965;21407
+2024-05-29;26;Crockeries Bazar 1 [Taltola];550;550;;;;116;Tarek;;;498
+2024-05-29;270;Barbara [Nandipara];5510;;154;;;117;Tarek;;5356;6443
+2024-05-29;189;A to Z Life [Nandipara];23200;;3082;;;118;Tarek;;20118;24093
+2024-05-29;29;Kabir [Taltola];;3130;;;;;Tarek;;-3130;0
+2024-05-29;40;Al-Modina [Taltola];;500;;;;;Tarek;;-500;1300
+2024-05-29;12;Fatema [Goran];;1500;;;;;Tarek;;-1500;1587
+2024-05-29;1129;Best Choice 2 [Moghbazar];;2000;;;;;Tarek;;-2000;9811
+2024-05-29;1144;Brothers [Madhubagh];;960;;1;;;Tarek;;-961;0
+2024-05-29;161;Sumon [Rampura];;5000;;;;;Tarek;;-5000;47987
+2024-05-29;116;Mariya [Nandipara];;;2054;;;115;Tarek;;-2054;10708
+2024-05-30;812;Chadpur [Taltola];;1220;;8;;;Tarek;;-1228;0
+2024-05-30;274;Bhuiyan [Taltola];;70;;3;;;Tarek;;-73;0
+2024-05-30;94;SA [Shahjahanpur];;2000;;;;;Tarek;;-2000;8854
+2024-05-30;115;Motlob [Tilpapara];;1980;;;;;Tarek;;-1980;0
+2024-05-30;16;Grihoshamogri [Goran];;1030;;3;;;Tarek;;-1033;0
+2024-05-30;12;Fatema [Goran];;1000;;;;;Tarek;;-1000;587
+2024-05-30;1108;Adorsho [Meradia];;510;;5;;;Tarek;;-515;0
+2024-05-30;292;Bismillah Varities [Banasree];;1000;;;;;Tarek;;-1000;7355
+2024-05-30;697;Maruf [Banasree];;400;;;;;Tarek;;-400;0
+2024-05-30;136;Rifaiya [Wapda];;1200;;;;;Tarek;;-1200;0
+2024-05-30;161;Sumon [Rampura];;4000;;;;;Tarek;;-4000;43987
+2024-05-30;830;Sumon 2 [Rampura];;2000;;;;;Tarek;;-2000;9076
+2024-05-30;124;Friends [Moghbazar];;1000;;;;;Tarek;;-1000;2339
+2024-05-30;1129;Best Choice 2 [Moghbazar];;1500;;;;;Tarek;;-1500;8311
+2024-05-30;723;Kaniz [Charulota];;70;;7;;;Tarek;;-77;0
+2024-05-30;797;Tabassum [Charulota];;1000;;;;;Tarek;;-1000;1336
+2024-05-30;693;Al-Amin [Madhubagh];;3000;;;;;Tarek;;-3000;33401
+2024-05-30;705;Allah'r Daan [Madhubagh];;2000;;;;;Tarek;;-2000;14258
+2024-05-30;764;Abdullah Nursery [Buddha Mandir];;;;35;;;Tarek;;-35;0
+2024-05-30;27;Crockeries Bazar 2 [Taltola];;5000;;;;;Tarek;;-5000;16407
+2024-05-30;189;A to Z Life [Nandipara];;10000;;;;;Tarek;;-10000;14093
+2024-05-30;270;Barbara [Nandipara];;1000;;;;;Tarek;;-1000;5443
+2024-05-30;116;Mariya [Nandipara];;2000;;;;;Tarek;;-2000;8708
+2024-05-30;780;Maayer Doa [Amanullah];;2000;;;;;Tarek;;-2000;3474
+2024-05-30;162;Habib [Rampura];;3000;;;;;Tarek;;-3000;24679
