@@ -1,1 +1,0 @@
-import{j as r}from"./index-BN4x1jzJ.js";import t from"./credit-aci-CXxHy83V.js";import{C as i}from"./credit-Duhk9pBW.js";import"./Table-G6tOVAGb.js";const m=()=>r.jsx("div",{children:r.jsx(i,{data:t,group:"aci",sr:"Azizul"})});export{m as default};
