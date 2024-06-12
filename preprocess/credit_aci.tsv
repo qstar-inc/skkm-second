@@ -6312,8 +6312,8 @@
 2023-12-18;608;Noyon [Mohanagar];;1000;;;;;Azizul;;-1000;8642
 2023-12-18;239;Al-Amin [Anarkoli];;2000;;;;;Azizul;;-2000;3047
 2023-12-18;656;Navid [Eastern Plus];;890;;5;;;Azizul;;-895;0
-2023-12-18;221;_One Time Sales;;300;;;300;;Azizul;RSM // 300 Transfer from ACIR;;420
-2023-12-19;221;_One Time Sales;1270;1270;;;;32;Azizul;Imtiaz Sir;;420
+2023-12-18;221;_One Time Sales;;300;;;;;Azizul;RSM // 300 Transfer from ACIR;-300;120
+2023-12-19;221;_One Time Sales;1270;1270;;;;32;Azizul;Imtiaz Sir;;120
 2023-12-19;156;Highway [Rampura];2155;;;;;31;Azizul;;2155;2648
 2023-12-19;136;Rifaiya [Wapda];;;1360;;;30;Azizul;;-1360;1464
 2023-12-19;475;Pearl [Eastern Plus];3886;;;;;29;Azizul;;3886;3886
@@ -6459,7 +6459,7 @@
 2024-01-01;45;Moni Mukta [Taltola];;1000;;;;;Azizul;;-1000;2609
 2024-01-02;549;M Islam [AM Plaza];5600;;;;;2;Azizul;;5600;700
 2024-01-02;466;Razib 2 [Rampura];5800;3500;;;;3;Azizul;;2300;35511
-2024-01-02;221;_One Time Sales;10500;10500;;;;4;Azizul;;;420
+2024-01-02;221;_One Time Sales;10500;10500;;;;4;Azizul;;;120
 2024-01-02;693;Al-Amin [Madhubagh];;1000;;;;;Azizul;;-1000;5075
 2024-01-02;39;Bismillah [Taltola];;1000;;;;;Azizul;;-1000;4166
 2024-01-02;164;Mahin [Rampura];;1000;;;;;Azizul;;-1000;1300
@@ -6709,7 +6709,7 @@
 2024-01-27;304;Cotton Gallery [Anarkoli];;500;;;;;Azizul;;-500;458
 2024-01-27;1099;Ashik [Anarkoli];;500;;;;;Azizul;;-500;1760
 2024-01-27;780;Maayer Doa [Amanullah];;2000;;;;;Azizul;;-2000;11000
-2024-01-28;221;_One Time Sales;4850;;;;;108;Azizul;;4850;5270
+2024-01-28;221;_One Time Sales;4850;;;;;108;Azizul;;4850;4970
 2024-01-28;45;Moni Mukta [Taltola];10500;10500;;;;106;Azizul;;;1009
 2024-01-28;466;Razib 2 [Rampura];3125;;;;;107;Azizul;;3125;39569
 2024-01-28;173;Comilla [Hazipara Boubazar];;500;;;;;Azizul;;-500;4267
@@ -6728,10 +6728,10 @@
 2024-01-29;83;Tania [Buddha Mandir];29100;14000;;;;112;Azizul;;15100;14178
 2024-01-29;139;A to Z [Banasree];4860;4850;;10;;113;Azizul;;;17798
 2024-01-29;52;SR Saiful (Mgm);;1000;;;;;Azizul;;-1000;3800
-2024-01-30;221;_One Time Sales;8000;8000;;;;115;Azizul;;;-3430
+2024-01-30;221;_One Time Sales;8000;8000;;;;115;Azizul;;;-3730
 2024-01-30;283;Bismillah [Rampura];;1900;8100;;;114;Azizul;;-10000;168
 2024-01-30;164;Mahin [Rampura];;;5900;;;116;Azizul;;-5900;4880
-2024-01-30;221;_One Time Sales;;4700;;;;;Azizul;;-4700;-3430
+2024-01-30;221;_One Time Sales;;4700;;;;;Azizul;;-4700;-3730
 2024-01-30;795;Bhai Bhai [Taltola];;540;;36;;;Azizul;;-576;0
 2024-01-30;603;Nazrul [Taltola];;480;;;;;Azizul;;-480;0
 2024-01-30;466;Razib 2 [Rampura];;3100;;;;;Azizul;;-3100;36469
@@ -6741,7 +6741,7 @@
 2024-01-30;83;Tania [Buddha Mandir];;14000;;;;;Azizul;;-14000;178
 2024-01-30;136;Rifaiya [Wapda];;1000;;;;;Azizul;;-1000;8172
 2024-01-30;693;Al-Amin [Madhubagh];;500;;;;;Azizul;;-500;3475
-2024-01-30;221;_One Time Sales;;4000;;;;;Azizul;;-4000;-3430
+2024-01-30;221;_One Time Sales;;4000;;;;;Azizul;;-4000;-3730
 2024-01-31;205;Kazi [Bashabo];2400;500;;;;117;Azizul;;1900;1900
 2024-01-31;250;Amar Bazar [Bashabo];4134;4130;;4;;118;Azizul;;;0
 2024-01-31;51;ZS [Tilpapara];17400;16000;;;;119;Azizul;;1400;1400
@@ -6778,13 +6778,13 @@
 2024-02-05;27;Crockeries Bazar 2 [Taltola];10500;2500;;;;10;Azizul;;8000;39055
 2024-02-05;567;VIP [Shahjahanpur];5800;;;;;11;Azizul;;5800;28800
 2024-02-05;466;Razib 2 [Rampura];10500;9000;;;;12;Azizul;;1500;47469
-2024-02-05;221;_One Time Sales;8200;2200;;;;13;Azizul;;6000;2570
+2024-02-05;221;_One Time Sales;8200;2200;;;;13;Azizul;;6000;2270
 2024-02-05;817;SR Nure Alam (ACIK);230;230;;;;14;Azizul;;;0
 2024-02-05;283;Bismillah [Rampura];;1000;;;;;Azizul;;-1000;7568
 2024-02-05;39;Bismillah [Taltola];;1000;;;;;Azizul;;-1000;4627
 2024-02-05;31;Mamun [Taltola];;380;;;;;Azizul;;-380;1047
 2024-02-05;46;Shariatpur [Taltola];;500;;;;;Azizul;;-500;5461
-2024-02-06;221;_One Time Sales;8200;8200;;;;15;Azizul;;;2570
+2024-02-06;221;_One Time Sales;8200;8200;;;;15;Azizul;;;2270
 2024-02-06;27;Crockeries Bazar 2 [Taltola];7590;5000;785;;;16;Azizul;;1805;40860
 2024-02-06;205;Kazi [Bashabo];;2000;;;;;Azizul;;-2000;2300
 2024-02-06;387;Maa Sanitary [Chamelibagh];;500;;;;;Azizul;;-500;396
@@ -6795,7 +6795,7 @@
 2024-02-06;164;Mahin [Rampura];;4000;;;;;Azizul;;-4000;6680
 2024-02-06;136;Rifaiya [Wapda];;1000;;;;;Azizul;;-1000;7172
 2024-02-06;608;Noyon [Mohanagar];;1000;;;;;Azizul;;-1000;9395
-2024-02-07;221;_One Time Sales;;2000;;;;;Azizul;;-2000;570
+2024-02-07;221;_One Time Sales;;2000;;;;;Azizul;;-2000;270
 2024-02-07;387;Maa Sanitary [Chamelibagh];1970;1000;;;;22;Azizul;;970;1366
 2024-02-07;307;Crockeries Gift [Eastern Plus];1953;;;;;23;Azizul;;1953;1953
 2024-02-07;310;Dhaka [Eastern Plus];1240;;;;;24;Azizul;;1240;1240
@@ -6808,7 +6808,7 @@
 2024-02-08;466;Razib 2 [Rampura];5800;6000;;;;18;Azizul;;-200;47269
 2024-02-08;136;Rifaiya [Wapda];;300;1850;;;19;Azizul;;-2150;5022
 2024-02-08;567;VIP [Shahjahanpur];10500;;;;;20;Azizul;;10500;55600
-2024-02-08;221;_One Time Sales;5600;5600;;;;21;Azizul;;;570
+2024-02-08;221;_One Time Sales;5600;5600;;;;21;Azizul;;;270
 2024-02-08;115;Motlob [Tilpapara];;1500;;;;;Azizul;;-1500;1380
 2024-02-08;162;Habib [Rampura];;1000;;;;;Azizul;;-1000;4792
 2024-02-08;164;Mahin [Rampura];;5000;;;;;Azizul;;-5000;10030
@@ -6892,7 +6892,7 @@
 2024-02-15;161;Sumon [Rampura];9700;4000;;;;55;Azizul;;5700;15040
 2024-02-15;608;Noyon [Mohanagar];1230;1230;;;;56;Azizul;;;11775
 2024-02-15;1129;Best Choice 2 [Moghbazar];5700;2050;;;;57;Azizul;;3650;5704
-2024-02-15;221;_One Time Sales;210;;;;;58;Azizul;;210;780
+2024-02-15;221;_One Time Sales;210;;;;;58;Azizul;;210;480
 2024-02-15;554;Tanzila [Kadamtola];10500;10500;;;;59;Azizul;;;0
 2024-02-15;162;Habib [Rampura];;2000;;;;;Azizul;;-2000;8632
 2024-02-15;817;SR Nure Alam (ACIK);;5700;;;;;Azizul;;-5700;0
@@ -6954,7 +6954,7 @@
 2024-02-22;39;Bismillah [Taltola];;500;;;;;Azizul;;-500;3127
 2024-02-22;46;Shariatpur [Taltola];;1000;;;;;Azizul;;-1000;2461
 2024-02-24;780;Maayer Doa [Amanullah];2400;2400;;;;79;Azizul;;;14300
-2024-02-24;221;_One Time Sales;8000;8000;;;;81;Azizul;;;780
+2024-02-24;221;_One Time Sales;8000;8000;;;;81;Azizul;;;480
 2024-02-24;466;Razib 2 [Rampura];;2000;8000;;;80;Azizul;;-10000;42459
 2024-02-24;104;Sotota [Sipahibagh];;530;230;4;;82;Azizul;;-764;0
 2024-02-24;105;Taqwa [Sipahibagh];;180;;;;;Azizul;;-180;600
@@ -7024,7 +7024,7 @@
 2024-03-02;567;VIP [Shahjahanpur];;19000;;;;;Azizul;;-19000;33650
 2024-03-02;994;Bismillah [Shantibagh];;1000;;;;;Azizul;;-1000;2386
 2024-03-03;567;VIP [Shahjahanpur];32600;;;;;6;Azizul;;32600;66250
-2024-03-03;221;_One Time Sales;6000;6000;;;;7;Azizul;;;780
+2024-03-03;221;_One Time Sales;6000;6000;;;;7;Azizul;;;480
 2024-03-03;780;Maayer Doa [Amanullah];;5500;;;;;Azizul;;-5500;14840
 2024-03-03;84;Camellia [Amanullah];;500;;;;;Azizul;;-500;5895
 2024-03-03;115;Motlob [Tilpapara];;1380;;;;;Azizul;;-1380;0
@@ -7081,7 +7081,7 @@
 2024-03-09;29;Kabir [Taltola];1715;;;;;32;Azizul;;1715;1715
 2024-03-09;156;Highway [Rampura];;500;;;;;Azizul;;-500;437
 2024-03-09;292;Bismillah Varities [Banasree];;500;;;;;Azizul;;-500;7438
-2024-03-10;221;_One Time Sales;6000;6000;;;;33;Azizul;;;780
+2024-03-10;221;_One Time Sales;6000;6000;;;;33;Azizul;;;480
 2024-03-10;94;SA [Shahjahanpur];3950;3950;;;;35;Azizul;;;0
 2024-03-10;161;Sumon [Rampura];;;3950;;;34;Azizul;;-3950;21206
 2024-03-10;292;Bismillah Varities [Banasree];;1000;;;;;Azizul;;-1000;6438
@@ -7298,7 +7298,7 @@
 2024-04-09;136;Rifaiya [Wapda];;500;;;;;Azizul;;-500;1837
 2024-04-09;608;Noyon [Mohanagar];;2000;;;;;Azizul;;-2000;11235
 2024-04-09;39;Bismillah [Taltola];;850;;10;;;Azizul;;-860;0
-2024-04-15;221;_One Time Sales;5700;5700;;;;16;Azizul;;;780
+2024-04-15;221;_One Time Sales;5700;5700;;;;16;Azizul;;;480
 2024-04-15;466;Razib 2 [Rampura];;6000;;;;;Azizul;;-6000;62334
 2024-04-16;466;Razib 2 [Rampura];11750;8000;;;;17;Azizul;;3750;66084
 2024-04-16;139;A to Z [Banasree];6000;6400;;100;;18;Azizul;;-500;8491
@@ -7313,7 +7313,7 @@
 2024-04-18;124;Friends [Moghbazar];1638;1630;;8;;22;Azizul;;;0
 2024-04-18;1129;Best Choice 2 [Moghbazar];6724;;;;;23;Azizul;;6724;13490
 2024-04-18;139;A to Z [Banasree];4200;;;;;24;Azizul;;4200;12691
-2024-04-18;221;_One Time Sales;5700;5700;;;;25;Azizul;;;780
+2024-04-18;221;_One Time Sales;5700;5700;;;;25;Azizul;;;480
 2024-04-18;136;Rifaiya [Wapda];;1500;;;;;Azizul;;-1500;337
 2024-04-18;162;Habib [Rampura];;1500;;;;;Azizul;;-1500;8752
 2024-04-18;466;Razib 2 [Rampura];;10000;;;;;Azizul;;-10000;64814
@@ -7467,7 +7467,7 @@
 2024-05-11;26;Crockeries Bazar 1 [Taltola];6923;500;;;;24;Azizul;;6423;11767
 2024-05-11;27;Crockeries Bazar 2 [Taltola];11280;1000;;;;25;Azizul;;10280;63859
 2024-05-11;261;Ashraf [Banasree];7180;;;;;26;Azizul;;7180;9308
-2024-05-11;221;_One Time Sales;10500;10500;;;;27;Azizul;Nurul [Maniknagar];;780
+2024-05-11;221;_One Time Sales;10500;10500;;;;27;Azizul;Nurul [Maniknagar];;480
 2024-05-11;84;Camellia [Amanullah];;1000;;;;;Azizul;;-1000;4785
 2024-05-11;83;Tania [Buddha Mandir];;4000;;;;;Azizul;;-4000;10808
 2024-05-11;776;MW [Shahjahanpur];;1000;;100;;;Azizul;;-1100;0
@@ -7617,7 +7617,7 @@
 2024-05-28;554;Tanzila [Kadamtola];;1000;;;;;Azizul;;-1000;4256
 2024-05-28;156;Highway [Rampura];;;185;;;77;Azizul;;-185;1514
 2024-05-29;27;Crockeries Bazar 2 [Taltola];3250;;;;;81;Azizul;;3250;70976
-2024-05-29;221;_One Time Sales;8500;8500;;;;82;Azizul;Rifat [Bashabo];;780
+2024-05-29;221;_One Time Sales;8500;8500;;;;82;Azizul;Rifat [Bashabo];;480
 2024-05-29;310;Dhaka [Eastern Plus];690;690;;;;83;Azizul;;;0
 2024-05-29;520;Shirin [Eastern Plus];1840;;;;;84;Azizul;;1840;1840
 2024-05-29;305;Crockeries Bazar [Eastern Plus];1220;1220;;;;85;Azizul;;;0
@@ -7628,7 +7628,7 @@
 2024-05-29;203;Chinese [Banasree];;500;;;;;Azizul;;-500;14991
 2024-05-29;466;Razib 2 [Rampura];;3000;;;;;Azizul;;-3000;71594
 2024-05-29;83;Tania [Buddha Mandir];;2000;;;;;Azizul;;-2000;15408
-2024-05-30;221;_One Time Sales;9500;9500;;;;87;Azizul;Riyaz [Mugda];;780
+2024-05-30;221;_One Time Sales;9500;9500;;;;87;Azizul;Riyaz [Mugda];;480
 2024-05-30;517;Shifamoni [Taltola];;2500;;;;;Azizul;;-2500;-2500
 2024-05-30;830;Sumon 2 [Rampura];;1030;;2;;;Azizul;;-1032;0
 2024-05-30;567;VIP [Shahjahanpur];;20000;;;;;Azizul;;-20000;55750
@@ -7651,3 +7651,99 @@
 2024-05-31;175;Nupur [Hazipara Boubazar];;610;;;;;Azizul;;-610;2780
 2024-05-31;780;Maayer Doa [Amanullah];;1000;;;;;Azizul;;-1000;7035
 2024-05-31;387;Maa Sanitary [Chamelibagh];;1000;;;;;Azizul;;-1000;219
+2024-06-01;517;Shifamoni [Taltola];1280;;;;;1;Azizul;;1280;-1220
+2024-06-01;27;Crockeries Bazar 2 [Taltola];18900;;;;;2;Azizul;;18900;79876
+2024-06-01;39;Bismillah [Taltola];3098;;;;;3;Azizul;;3098;3098
+2024-06-01;136;Rifaiya [Wapda];4704;1000;250;;;4;Azizul;;3454;3966
+2024-06-01;830;Sumon 2 [Rampura];3490;;;;;5;Azizul;;3490;3490
+2024-06-01;466;Razib 2 [Rampura];19710;;;;;6;Azizul;;19710;81304
+2024-06-01;239;Al-Amin [Anarkoli];;1500;;;;;Azizul;;-1500;2660
+2024-06-01;84;Camellia [Amanullah];;500;;;;;Azizul;;-500;3585
+2024-06-01;115;Motlob [Tilpapara];;1000;;;;;Azizul;;-1000;2272
+2024-06-01;205;Kazi [Bashabo];;1320;;10;;;Azizul;;-1330;0
+2024-06-02;517;Shifamoni [Taltola];1250;;;30;;9;Azizul;;1220;0
+2024-06-02;239;Al-Amin [Anarkoli];4975;;;;;10;Azizul;;4975;7635
+2024-06-02;124;Friends [Moghbazar];890;;;;;11;Azizul;;890;890
+2024-06-02;139;A to Z [Banasree];4200;;1000;;;7;Azizul;;3200;10611
+2024-06-02;716;Lam Best [Banasree];915;;;;;12;Azizul;;915;5331
+2024-06-02;292;Bismillah Varities [Banasree];;;2730;;;8;Azizul;;-2730;208
+2024-06-02;162;Habib [Rampura];;1000;;;;;Azizul;;-1000;4412
+2024-06-02;608;Noyon [Mohanagar];;1500;;;;;Azizul;;-1500;5235
+2024-06-02;1129;Best Choice 2 [Moghbazar];;1500;;;;;Azizul;;-1500;1835
+2024-06-02;83;Tania [Buddha Mandir];;4000;;;;;Azizul;;-4000;11408
+2024-06-03;156;Highway [Rampura];;1000;;;;;Azizul;;-1000;514
+2024-06-03;139;A to Z [Banasree];;1500;;;;;Azizul;;-1500;9111
+2024-06-03;716;Lam Best [Banasree];;1000;;;;;Azizul;;-1000;4331
+2024-06-03;175;Nupur [Hazipara Boubazar];;500;;;;;Azizul;;-500;2280
+2024-06-03;27;Crockeries Bazar 2 [Taltola];;5000;;;;;Azizul;;-5000;74876
+2024-06-03;466;Razib 2 [Rampura];;10000;;;;;Azizul;;-10000;71304
+2024-06-03;82;B.Baria 3 [Khilgaon];;1000;;8;;;Azizul;;-1008;0
+2024-06-04;663;Bismillah [AGB];510;500;;10;;13;Azizul;;;565
+2024-06-04;250;Amar Bazar [Bashabo];3510;3500;;10;;14;Azizul;;;0
+2024-06-04;239;Al-Amin [Anarkoli];;2000;;;;;Azizul;;-2000;5635
+2024-06-04;830;Sumon 2 [Rampura];;1000;;;;;Azizul;;-1000;2490
+2024-06-04;27;Crockeries Bazar 2 [Taltola];;5000;;;;;Azizul;;-5000;69876
+2024-06-04;26;Crockeries Bazar 1 [Taltola];;1000;;;;;Azizul;;-1000;9050
+2024-06-04;39;Bismillah [Taltola];;1500;;;;;Azizul;;-1500;1598
+2024-06-04;994;Bismillah [Shantibagh];;1000;;;;;Azizul;;-1000;-179
+2024-06-04;203;Chinese [Banasree];;5000;;;;;Azizul;;-5000;6491
+2024-06-05;27;Crockeries Bazar 2 [Taltola];20180;5000;;;;15;Azizul;;15180;85056
+2024-06-05;31;Mamun [Taltola];1621;;;;;16;Azizul;;1621;2896
+2024-06-05;795;Bhai Bhai [Taltola];1101;;;;;17;Azizul;;1101;1101
+2024-06-05;29;Kabir [Taltola];1402;;;;;18;Azizul;;1402;1402
+2024-06-05;162;Habib [Rampura];;1000;;;;;Azizul;;-1000;3412
+2024-06-05;164;Mahin [Rampura];;1000;;;;;Azizul;;-1000;7690
+2024-06-05;466;Razib 2 [Rampura];;1500;;;;;Azizul;;-1500;69804
+2024-06-06;466;Razib 2 [Rampura];;5000;;;;;Azizul;;-5000;64804
+2024-06-06;27;Crockeries Bazar 2 [Taltola];4950;15000;;;;19;Azizul;;-10050;75006
+2024-06-06;83;Tania [Buddha Mandir];5800;5000;;;;20;Azizul;;800;12208
+2024-06-06;567;VIP [Shahjahanpur];16550;;;;;21;Azizul;;16550;72300
+2024-06-06;29;Kabir [Taltola];;1400;;2;;;Azizul;;-1402;0
+2024-06-06;31;Mamun [Taltola];;500;;;;;Azizul;;-500;2396
+2024-06-06;554;Tanzila [Kadamtola];;1000;;;;;Azizul;;-1000;2756
+2024-06-06;203;Chinese [Banasree];;500;;;;;Azizul;;-500;5991
+2024-06-06;261;Ashraf [Banasree];;2750;;;;;Azizul;;-2750;318
+2024-06-06;139;A to Z [Banasree];;1000;;;;;Azizul;;-1000;8111
+2024-06-06;292;Bismillah Varities [Banasree];;200;;8;;;Azizul;;-208;0
+2024-06-06;416;Mehbuba [Anarkoli];;300;;14;;;Azizul;;-314;0
+2024-06-08;27;Crockeries Bazar 2 [Taltola];14150;1220;;;;22;Azizul;;12930;87936
+2024-06-08;1129;Best Choice 2 [Moghbazar];808;;;;;23;Azizul;;808;2643
+2024-06-08;164;Mahin [Rampura];;;5900;;;24;Azizul;;-5900;1790
+2024-06-08;466;Razib 2 [Rampura];16710;2000;;;;25;Azizul;;14710;79514
+2024-06-08;156;Highway [Rampura];2620;;;;;26;Azizul;;2620;3134
+2024-06-08;608;Noyon [Mohanagar];5411;1000;;;;27;Azizul;;4411;9646
+2024-06-08;136;Rifaiya [Wapda];;500;;;;;Azizul;;-500;3466
+2024-06-08;132;Al-Amin [Ulon];;600;;;;;Azizul;;-600;1770
+2024-06-08;116;Mariya [Nandipara];;2000;;;;;Azizul;;-2000;12460
+2024-06-09;475;Pearl [Eastern Plus];1390;1390;;;;28;Azizul;;;0
+2024-06-09;305;Crockeries Bazar [Eastern Plus];3941;;;;;29;Azizul;;3941;3941
+2024-06-09;387;Maa Sanitary [Chamelibagh];2690;1000;;;;30;Azizul;;1690;1909
+2024-06-09;156;Highway [Rampura];;500;;;;;Azizul;;-500;2634
+2024-06-10;603;Nazrul [Taltola];492;490;;2;;31;Azizul;;;0
+2024-06-10;27;Crockeries Bazar 2 [Taltola];1220;;;;;32;Azizul;;1220;89156
+2024-06-10;567;VIP [Shahjahanpur];12760;;;;;33;Azizul;;12760;85060
+2024-06-10;283;Bismillah [Rampura];5891;;;;;34;Azizul;;5891;6242
+2024-06-10;261;Ashraf [Banasree];4775;;;;;35;Azizul;;4775;5093
+2024-06-10;387;Maa Sanitary [Chamelibagh];;500;;;;;Azizul;;-500;1409
+2024-06-10;656;Navid [Eastern Plus];;700;;27;;;Azizul;;-727;0
+2024-06-10;305;Crockeries Bazar [Eastern Plus];;3940;;1;;;Azizul;;-3941;0
+2024-06-10;239;Al-Amin [Anarkoli];;2500;;;;;Azizul;;-2500;3135
+2024-06-10;1129;Best Choice 2 [Moghbazar];;1000;;;;;Azizul;;-1000;1643
+2024-06-10;795;Bhai Bhai [Taltola];;1100;;1;;;Azizul;;-1101;0
+2024-06-10;31;Mamun [Taltola];;500;;;;;Azizul;;-500;1896
+2024-06-01;52;SR Saiful (Mgm);;;;100;;;Azizul;;-100;0
+2024-06-01;221;_One Time Sales;;;;180;;;Azizul;;-180;300
+2024-06-01;1126;Kitchen Decor [Taltola];;;;228;;;Azizul;;-228;0
+2024-06-01;812;Chadpur [Taltola];;;;8;;;Azizul;;-8;490
+2024-06-01;43;Comilla [Taltola];;;;255;;;Azizul;;-255;225
+2024-06-01;1092;Shoukhin [Amanullah];;;;135;;;Azizul;;-135;0
+2024-06-01;1128;Maayer Doa [Shahjahanpur];;;;10;;;Azizul;;-10;2180
+2024-06-01;13;Ever Green [Banasree];;;;80;;;Azizul;;-80;0
+2024-06-01;135;Confidence [Wapda];;;;330;;;Azizul;;-330;0
+2024-06-01;283;Bismillah [Rampura];;;;400;;;Azizul;;-400;351
+2024-06-01;572;Vision [AM Plaza];;;;300;;;Azizul;;-300;0
+2024-06-01;1099;Ashik [Anarkoli];;;;100;;;Azizul;;-100;0
+2024-06-01;1155;Bondhu Shop [Moghbazar];;;;100;;;Azizul;;-100;0
+2024-06-01;994;Bismillah [Shantibagh];;;;565;;;Azizul;;-565;821
+2024-06-01;162;Habib [Rampura];;;;2000;;;Azizul;;-2000;5412
+2024-06-01;161;Sumon [Rampura];;;;500;;;Azizul;Glass;-500;12977
